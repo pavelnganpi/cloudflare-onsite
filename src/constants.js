@@ -14,6 +14,8 @@ const SCHEMA_NAMES = {
 
 const ERROR_MESSAGES = {
 	SHORT_ID_NOT_FOUND: 'shortId not found',
+	URL_MISSING: 'url field missing',
+	INVALID_URL: 'invalid url.'
 };
 
 export {

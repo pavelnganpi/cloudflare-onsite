@@ -42,6 +42,7 @@
     "request": "^2.83.0",
     "rimraf": "^2.6.2",
     "shortid": "^2.2.8",
+    "url-exists": "^1.0.3",
     "winston": "^3.0.0-rc1"
   },
   "devDependencies": {
