@@ -12,7 +12,12 @@ const SCHEMA_NAMES = {
 	ANALYTICS: 'Analytics'
 };
 
+const ERROR_MESSAGES = {
+	SHORT_ID_NOT_FOUND: 'shortId not found',
+};
+
 export {
 	HTTP_STATUS,
 	SCHEMA_NAMES,
+	ERROR_MESSAGES,
 }
